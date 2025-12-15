@@ -31,11 +31,11 @@ wheels/
 data/*.csv
 !data/.gitkeep
 
-# Output files
-outputs/*.png
-outputs/*.jpg
-outputs/*.pdf
-outputs/figures/*.png
+# Output files (keep generated visualizations for portfolio)
+# outputs/*.png
+# outputs/*.jpg
+# outputs/*.pdf
+# outputs/figures/*.png
 !outputs/.gitkeep
 
 # IDE
