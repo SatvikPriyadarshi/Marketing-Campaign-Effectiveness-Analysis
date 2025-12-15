@@ -57,11 +57,23 @@ marketing-campaign-analysis/
 - **Customers with higher education** showed 1.8x higher CLV
 
 ## 📊 Visualizations
-- Campaign performance by channel (bar charts)
-- Conversion rates by age group (heatmaps)
-- ROI trends over time (line charts)
-- Customer segmentation analysis (scatter plots)
-- Interactive dashboards for stakeholder presentations
+
+### Executive Dashboard
+![Dashboard Summary](outputs/figures/dashboard_summary.png)
+
+### Key Analysis Charts
+
+#### Conversion Rate by Age Group
+![Conversion by Age](outputs/figures/conversion_by_age.png)
+
+#### Channel Performance Analysis
+![Channel Performance](outputs/figures/channel_performance.png)
+
+#### Campaign Contact Frequency
+![Campaign Frequency](outputs/figures/campaign_frequency.png)
+
+#### Monthly Performance Trends
+![Monthly Trends](outputs/figures/monthly_trends.png)
 
 ## 🚀 How to Run
 1. Clone this repository
@@ -97,7 +109,8 @@ This analysis demonstrates:
 - Understanding of customer behavior and segmentation
 
 ## 👤 Author
-[Your Name]
+**Satvik Priyadarshi**
+- GitHub: [@SatvikPriyadarshi](https://github.com/SatvikPriyadarshi)
 
 ## 📝 License
 MIT License
